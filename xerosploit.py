@@ -967,7 +967,9 @@ rmlog    :  Delete all xerosploit logs.
 
 help     :  Display this help message.
 
-exit     :  Close Xerosploit.\n\033[1;m"""]
+exit     :  Close Xerosploit.
+
+back     :  Back manu\n\033[1;m"""]
 					]
 					table = DoubleTable(table_datas)
 					print(table.table)
